@@ -24,11 +24,11 @@ void draw()
 
   startY = 0;
    startX = (int)(Math.random()*300+50);
-   //System.out.print(" "+startX + " ");
+
    
    while(endY < 400){
      if(Oppacity == true){
-     //oppacity = oppacity + 0.5;
+     
      }
  
      stroke(255,255,0,255-oppacity);
@@ -52,7 +52,7 @@ void draw()
 
 void mousePressed()
 {
-  //bolt();
+
    endY = 0;
    background(0);
   
@@ -88,5 +88,7 @@ void bolt(){
 }
 
  
+ 
+   
  
    
