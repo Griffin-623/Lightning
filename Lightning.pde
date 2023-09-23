@@ -18,7 +18,7 @@ void draw()
 {
   
  
-  System.out.print(oppacity);
+
   
   
 
